@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-export default function Home() {
+export default function Portfolio() {
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
       {/* Header */}

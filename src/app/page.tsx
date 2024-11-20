@@ -1,12 +1,12 @@
 import React from 'react'
-import Home from './Portfolio/page'
+import Portfolio from './Portfolio/page'
 
-function Portfolio() {
+function Home() {
   return (
     <div>
-      <Home/>
+      <Portfolio/>
     </div>
   )
 }
 
-export default Portfolio
+export default Home
