@@ -28,9 +28,9 @@ export default function Portfolio() {
               layout="fill"
             />
           </div>
-          <h2 className="text-4xl font-semibold hover:text-yellow-800">Hi, I'm Muhammad Danish</h2>
+          <h2 className="text-4xl font-semibold hover:text-yellow-800">Hi, I am Muhammad Danish</h2>
           <p className="text-xl mt-4 text-gray-700">
-            I’m a frontend developer specializing in building modern, responsive websites and applications using TypeScript, Next.js, React, Tailwind CSS, and more.
+            I am a frontend developer specializing in building modern, responsive websites and applications using TypeScript, Next.js, React, Tailwind CSS, and more.
           </p>
         </section>
 
@@ -58,7 +58,7 @@ export default function Portfolio() {
             <div className="bg-white shadow-lg rounded-lg overflow-hidden transform transition-all duration-300 hover:scale-105 hover:shadow-2xl flex flex-col hover:flex-grow">
               <div className="p-6">
                 <h4 className="text-xl font-bold text-gray-800">Portfolio Website</h4>
-                <p className="mt-2 text-gray-600">This portfolio website! Built using TypeScript, Tailwind CSS, and Next.js.</p>
+                <p className="mt-2 text-gray-600">This portfolio website Built using TypeScript, Tailwind CSS, and Next.js.</p>
               </div>
             </div>
 
@@ -84,7 +84,7 @@ export default function Portfolio() {
         {/* Contact Section */}
         <section id="contact" className="my-12 text-center">
           <h3 className="text-3xl font-semibold">Contact Me</h3>
-          <p className="text-lg mt-4 text-gray-700">Feel free to reach out if you’d like to collaborate or chat about web development.</p>
+          <p className="text-lg mt-4 text-gray-700">Feel free to reach out if you would like to collaborate or chat about web development.</p>
           <p className="mt-4 text-gray-700">
             <strong>Email:</strong> <a href="mailto:muhammaddanish500@yahoo.com" className="text-yellow-500 hover:underline">muhammaddanish500@yahoo.com</a><br />
             <strong>Phone:</strong> <a href="tel:+923112479485" className="text-yellow-500 hover:underline">0311-2479485</a>
